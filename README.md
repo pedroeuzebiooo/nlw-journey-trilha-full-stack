@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://nlw-journey-trilha-html-css-js.vercel.app">
-    <img src="./.github/logo.svg" alt="Logo do projeto plann.er">
+    <img src="./img/logo.svg" alt="Logo do projeto plann.er">
   </a>
 </h1>
 
