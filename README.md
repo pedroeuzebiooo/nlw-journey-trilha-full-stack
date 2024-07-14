@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://nlw-journey-trilha-html-css-js.vercel.app">
+  <a href="https://nlw-journey-trilha-full-stack.vercel.app">
     <img src="./img/logo.svg" alt="Logo do projeto plann.er">
   </a>
 </h1>
@@ -67,7 +67,7 @@
 ## 📱 Versão Mobile
 
 <p align="center">
-  <a href="https://nlw-journey-trilha-react.vercel.app">
+  <a href="https://nlw-journey-trilha-full-stack.vercel.app">
     <img src="./.github/preview-mobile.png" alt="Preview da versão mobile do projeto" width="380" height="680" >
   </a>
 </p>
@@ -75,7 +75,7 @@
 ## 🖥️ Versão Desktop
 
 <p align="center">
-  <a href="https://nlw-journey-trilha-react.vercel.app">
+  <a href="https://nlw-journey-trilha-full-stack.vercel.app">
     <img src="./.github/preview-desktop.png" alt="Preview da versão desktop do projeto">
   </a>
 </p>
@@ -110,7 +110,7 @@ Siga o passo a passo para instalar o projeto:
 1. Abra o terminal e clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/pedroeuzebiooo/nlw-journey-trilha-html-css-js
+git clone https://github.com/pedroeuzebiooo/nlw-journey-trilha-full-stack
 ```
 
 ## ⚙️ Executando
@@ -120,7 +120,7 @@ Siga o passo a passo para executar o projeto:
 1. Entre na pasta do projeto clonado:
 
 ```bash
-cd nlw-journey-trilha-html-css-js
+cd nlw-journey-trilha-full-stack
 ```
 
 2. Abra a pasta do projeto clonado no editor de código de sua preferência. Caso seja o [VS Code](https://code.visualstudio.com/download) digite o comando:
@@ -137,7 +137,7 @@ Visualize o layout do projeto através <a href="https://www.figma.com/community/
 
 ## 🌐 Deploy
 
-- [Exibir projeto](https://nlw-journey-trilha-html-css-js.vercel.app)
+- [Exibir projeto](https://nlw-journey-trilha-full-stack.vercel.app)
 
 ## 🧑‍💻 Autor
 
